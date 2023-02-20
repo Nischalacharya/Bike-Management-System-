@@ -1,0 +1,10 @@
+B001,Classic X,Royal Enfield,Metal Grey,105,450000
+B002,KTM RCX-1,Kraft Farmic ,Black     ,5,470000
+B003,Apache OP,TVS Bikes    ,Black     ,48,350000
+B004,Pulsar GT,Real Bajaj   ,Red       ,40,300000
+B005,C-Shine-P,Hero Honda   ,Brown     ,75,210000
+B006,MotoCorp ,Honda        ,Grey      ,35,250000    
+B007,Benelli  ,Benelli      ,Green     ,43,500000
+B008,BMW F850 ,BMW          ,White     ,22,700000
+B009,Keeyway  ,Keey way     ,Red       ,68,550000
+B010,FZ 250   ,Yamaha       ,Blue      ,100,143300
